@@ -15,6 +15,9 @@
 Aplicaçao tem como finalidade, clonar as funcionalidades de drag in drop (arrasta e solta) da aplicação <strong><a href="https://www.pipefy.com/">pipefy</a></strong> um sistema de 
 automatização de workflow.
 
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/49100518/133426948-0c518538-fa45-46af-8db1-df6af106f1f0.gif)
+
+
 ### :rocket: Tecnologias Utilizadas
 
 O projeto foi feito com as seguintes tecnologias:
